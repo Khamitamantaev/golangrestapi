@@ -1,9 +1,10 @@
 package main
 
-import (   "context"
+import (
+	"context"
 			"encoding/json"
-	"github.com/Khamitamantaev/golangrestapi/helper"
-	"github.com/Khamitamantaev/golangrestapi/models"
+	"github.com/Khamitamantaev/golangrestapi/00_1/helper"
+	"github.com/Khamitamantaev/golangrestapi/00_1/models"
 	"log"
 			"net/http"
 
